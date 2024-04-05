@@ -4,7 +4,7 @@
 <br>
 <ul>
   <li>Fork the given repo</li>
-  <li>run <npm install></li>
+  <li>run npm install</li>
   <li>connect to mongodb</li>
-  <li>press <nodemon app> on terminal</li>
+  <li>press nodemon app on terminal</li>
 </ul>
